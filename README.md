@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello,
+
+I'm from Brazil and I'm starting programming with python.
